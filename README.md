@@ -1,2 +1,1 @@
-# OWLoLMusicInteractive
 # ProjectLoW
